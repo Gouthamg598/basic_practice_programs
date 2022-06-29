@@ -51,5 +51,6 @@
 # l.append(a)
 # l.append(b)
 # l.append(c)
+#l.sort()
 # print(l)
 #print(l[1])
